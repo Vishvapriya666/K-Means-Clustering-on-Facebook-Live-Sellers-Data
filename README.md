@@ -3,7 +3,7 @@
 
 
 
-### ** Overview**  
+### Overview 
 This project applies **K-Means Clustering**, an unsupervised machine learning algorithm, on the **Facebook Live Sellers in Thailand** dataset. The dataset is sourced from the [UCI ML Repository](https://www.kaggle.com/datasets/ashishg21/facebook-live-sellers-in-thailand-uci-ml-repo).  
 
 Live selling, also known as **live shopping** or **live streaming commerce**, has become increasingly popular in Asian countries. This project aims to analyze sellers' behavior and segment them into clusters based on key features using K-Means Clustering.  
