@@ -16,13 +16,13 @@ Live selling, also known as **live shopping** or **live streaming commerce**, ha
 ✔ **Elbow Method**: Used to determine the optimal number of clusters.  
 ✔ **Visualizations**: Cluster visualization using **Matplotlib, Seaborn, and Plotly** for insightful data representation.  
 
-### **Technologies Used**  
+### Technologies Used 
 - **Python**  
 - **Pandas, NumPy** – Data manipulation and analysis  
 - **Matplotlib, Seaborn, Plotly** – Data visualization  
 - **Scikit-learn** – Machine learning library for K-Means clustering  
 
-### ** How to Use**  
+### How to Use 
 1. Clone the repository:  
    ```bash
    git clone https://github.com/yourusername/KmeansClustering.git
@@ -33,7 +33,7 @@ Live selling, also known as **live shopping** or **live streaming commerce**, ha
    ```
 3. Open and run the **Jupyter Notebook** to explore data and view clustering results.  
 
-### ** Expected Outcomes**  
+### Expected Outcomes 
 - Identification of distinct seller groups based on clustering analysis.  
 - Insights into different behavioral patterns of live sellers.  
 - Potential business strategies based on seller segmentation.  
